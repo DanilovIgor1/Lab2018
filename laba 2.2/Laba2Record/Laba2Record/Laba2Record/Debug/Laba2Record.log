@@ -1,0 +1,4 @@
+﻿  Laba2Record.cpp
+d:\с++\лабы\мои\laba 2.2\laba2record\laba2record\laba2record\helputils.h(88): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\лабы\мои\laba 2.2\laba2record\laba2record\laba2record\university.h(139): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Laba2Record.vcxproj -> D:\С++\Лабы\Мои\laba 2.2\Laba2Record\Laba2Record\Debug\Laba2Record.exe
